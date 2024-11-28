@@ -3,3 +3,4 @@ laradock/.env
 laradock/env-example
 config/*
 node_modules
+node_modules
