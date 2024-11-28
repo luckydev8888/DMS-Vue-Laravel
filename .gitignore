@@ -1,0 +1,5 @@
+.env
+laradock/.env
+laradock/env-example
+config/*
+node_modules
